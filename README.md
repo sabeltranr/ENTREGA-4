@@ -32,6 +32,9 @@ de uno o varios canales de televisión por medio de una búsqueda.
     
     -Info_WebScraping (libreria propia)
     
+    -Pyflix (libreria propia)
+    
+    
   -Ejecutar los siguientes comandos para instalar las librerias:
   
     -pip install Tkinter
@@ -50,9 +53,11 @@ de uno o varios canales de televisión por medio de una búsqueda.
     
     -pip install Info_WebScraping
     
+    pip install Pyflix
+    
   **NOTAS:**
   
-            -Para acceder al menú de programas inicie sesión con su usuario y contraseña.
-            -En caso de querer buscar un programa en específico,ingrese palabra clave en la barra de búsqueda y de clic en el botón de busqueda (lupa)
-            -Para cerrar sesión de click en el botón que su imagen de usuario y de click en "cerrar sesión" y confirme.
+      -Para acceder al menú de programas inicie sesión con su usuario y contraseña.
+      -En caso de querer buscar un programa en específico,ingrese palabra clave en la barra de búsqueda y de clic en el botón de busqueda (lupa)
+      -Para cerrar sesión de click en el botón que su imagen de usuario y de click en "cerrar sesión" y confirme.
   
